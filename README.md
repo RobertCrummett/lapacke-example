@@ -8,7 +8,7 @@
 
 ### Intel Compiler Flags
 
-[https://learn.microsoft.com/en-us/cpp/build/reference/compiler-options-listed-alphabetically?view=msvc-170](https://portal.cs.umbc.edu/help/fortran/lapack-3.5.0/DOCS/lapacke.pdf)
+[https://learn.microsoft.com/en-us/cpp/build/reference/compiler-options-listed-alphabetically?view=msvc-170](https://learn.microsoft.com/en-us/cpp/build/reference/compiler-options-listed-alphabetically?view=msvc-170)
 
 #### Building 3.3.25:
 
